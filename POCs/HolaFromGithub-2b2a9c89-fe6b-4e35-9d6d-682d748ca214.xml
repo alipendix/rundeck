@@ -6,7 +6,7 @@
     <group>POCs</group>
     <id>2b2a9c89-fe6b-4e35-9d6d-682d748ca214</id>
     <loglevel>INFO</loglevel>
-    <name>HolaFromGithub2</name>
+    <name>HolaFromGithub</name>
     <nodeFilterEditable>false</nodeFilterEditable>
     <plugins />
     <scheduleEnabled>true</scheduleEnabled>
