@@ -1,7 +1,7 @@
 <joblist>
   <job>
     <defaultTab>nodes</defaultTab>
-    <description>Ejemplo de script from repo 2211</description>
+    <description>Ejemplo de script from repo</description>
     <executionEnabled>true</executionEnabled>
     <group>POCs</group>
     <id>2b2a9c89-fe6b-4e35-9d6d-682d748ca214</id>
