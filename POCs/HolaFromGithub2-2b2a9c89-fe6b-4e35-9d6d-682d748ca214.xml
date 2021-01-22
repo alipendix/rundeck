@@ -1,0 +1,21 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description>Ejemplo de script from repo</description>
+    <executionEnabled>true</executionEnabled>
+    <group>POCs</group>
+    <id>2b2a9c89-fe6b-4e35-9d6d-682d748ca214</id>
+    <loglevel>INFO</loglevel>
+    <name>HolaFromGithub2</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <plugins />
+    <scheduleEnabled>true</scheduleEnabled>
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <description>Hola</description>
+        <exec>echo "hola hola"</exec>
+      </command>
+    </sequence>
+    <uuid>2b2a9c89-fe6b-4e35-9d6d-682d748ca214</uuid>
+  </job>
+</joblist>
